@@ -1,8 +1,9 @@
-server.js
-package.json
-render.yaml
-.env.example
-README.md
-.gitignore
-data.json
-data.example.json
+NovaMine
+├── server.js
+├── package.json
+├── render.yaml
+├── .env.example
+├── .gitignore
+├── data.json
+├── data.example.json
+└── README.md
